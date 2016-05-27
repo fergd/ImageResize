@@ -5,7 +5,7 @@ A home for my bulk image handling experiments.
 - Node
 - Grunt
 
-## Useage
+## Usage
 - `grunt` runs default image resizing task
 - `grunt --verbose` helps you see where errors occur, because they will.
 
